@@ -1,2 +1,3 @@
 1st line in file1
 2nd line in b1
+3rd line
